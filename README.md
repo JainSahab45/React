@@ -75,20 +75,5 @@ npm run dev
 
 This repository documents my React learning journey by collecting projects of increasing complexity. As I continue learning, I'll keep adding more projects and improving existing ones.
 
----
-
-## 🌟 Future Projects
-
-* Todo App
-* Weather App
-* Currency Converter
-* Movie Search App
-* GitHub Profile Finder
-* Shopping Cart
-* Blog Application
-* Authentication System
-* Full-Stack MERN Projects
-
----
 
 ### ⭐ If you like this repository, consider giving it a star!
