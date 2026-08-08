@@ -1,79 +1,60 @@
-# 🚀 React Projects Collection
+# 🚀 React Learning Projects
 
-Welcome to my **React Projects** repository! This repository contains a collection of React applications that I built while learning and exploring the React ecosystem. Each project focuses on different concepts, from React fundamentals to building interactive UI components.
+This repository is a collection of React mini-projects built while learning the React ecosystem. Each project focuses on a different concept such as components, props, state, hooks, routing, context API, or Tailwind CSS.
 
-## 📂 Projects
+## 📂 Project Highlights
 
-| Project           | Description                                               |
-| ----------------- | --------------------------------------------------------- |
-| **basicreact**    | Learning the fundamentals of React.                       |
-| **basicvit**      | React project created using Vite.                         |
-| **3react**        | Exploring components, props, and modern React concepts.   |
-| **bgchanger**     | Background Color Changer using React.                     |
-| **passgen**       | Password Generator built with React.                      |
-| **customproject** | Custom React project for experimenting with new features. |
-| **customreact**   | Basic custom React implementation.                        |
-
----
+| Project | Purpose |
+| --- | --- |
+| basicreact | React fundamentals and component basics |
+| basicvit | Vite-based React setup |
+| 3react | Component and props practice |
+| bgchanger | Interactive background color changer |
+| passgen | Password generator UI |
+| contextapi1 | Context API example |
+| currencyconvert | Currency converter app |
+| reactrouter | React Router navigation example |
+| todolist | Todo app with state and local storage |
+| themeswitcher | Light/dark theme switcher |
+| customproject / customreact | Small experiments and custom implementations |
 
 ## 🛠️ Tech Stack
 
-* ⚛️ React
-* ⚡ Vite
-* 🎨 Tailwind CSS
-* JavaScript (ES6+)
-* HTML5
-* CSS3
+- React
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
 
----
+## ▶️ Getting Started
 
-## 📖 What I'm Learning
-
-* React Components
-* JSX
-* Props
-* State Management
-* Hooks (`useState`, `useEffect`)
-* Event Handling
-* Conditional Rendering
-* Lists & Keys
-* Tailwind CSS
-* Project Structure
-* Vite Development Workflow
-
----
-
-## 🚀 Getting Started
-
-Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/JainSahab45/React.git
 ```
 
-Go to any project:
+2. Open any project folder:
 
 ```bash
-cd React/passgen
+cd React/todolist
 ```
 
-Install dependencies:
+3. Install dependencies:
 
 ```bash
 npm install
 ```
 
-Start the development server:
+4. Start the development server:
 
 ```bash
 npm run dev
 ```
 
----
-
 ## 📌 Repository Goal
 
-This repository documents my React learning journey by collecting projects of increasing complexity. As I continue learning, I'll keep adding more projects and improving existing ones.
+This repo serves as a practical learning archive for building React apps from simple concepts to more interactive UI experiences.
 
-
-### ⭐ If you like this repository, consider giving it a star!
+### ⭐ If you enjoy this repository, consider giving it a star!
